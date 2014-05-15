@@ -49,7 +49,8 @@ body {
 }
 
 a {
-  color: #d5000d;
+  color: #2a57d5;
+  text-decoration: underline;
   font-weight: bold;
 }
 
@@ -138,12 +139,12 @@ h1 {
 h2 {
   font-size: 22px;
   font-weight: bold;
-  color: #303030;
+  color: #1274f0;
   margin-bottom: 8px;
 } 
 
 h3 {
-  color: #d5000d;
+  color: #303030;
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 8px;
