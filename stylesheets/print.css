@@ -83,7 +83,7 @@ header h2 {
 code, pre {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
   color: #222;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
   font-size: 12px;
 }
 
@@ -101,7 +101,7 @@ pre code {
 }
 
 ul, ol, dl {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 
@@ -138,13 +138,12 @@ h1 {
 h2 {
   font-size: 18px;
   color: #1274f0;
-  margin-bottom: 8px;
-} 
+}
 
 h3 {
   color: #303030;
   font-size: 16px;
-  margin-bottom: 8px;
+  margin-bottom: 4px;
 } 
  
 h4 {
@@ -165,7 +164,7 @@ h6 {
 
 p {
   font-weight: 300;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
  
 p a {
@@ -175,7 +174,7 @@ p a {
 blockquote {
   font-size: 1.6em;
   border-left: 10px solid #e9e9e9;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   padding: 0 0 0 30px;
 }
 
