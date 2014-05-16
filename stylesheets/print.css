@@ -225,3 +225,7 @@ footer a {
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
+
+.hide-print {
+  display: none;
+}
