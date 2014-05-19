@@ -65,7 +65,7 @@ a:hover {
 
 header {
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
   background: #2e7bcf 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
@@ -87,6 +87,18 @@ header h2 {
   line-height: 1.3;
   width: 540px;
   letter-spacing: 0;
+  margin-bottom: 12px;
+}
+
+header p {
+  margin: 0;
+  color: #9ddcff;
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 13px;
+}
+
+header p a, header p a:hover {
+  color: inherit;
 }
 
 .inner {
